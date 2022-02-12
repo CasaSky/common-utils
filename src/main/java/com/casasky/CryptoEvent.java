@@ -1,11 +1,15 @@
 package com.casasky;
 
+import lombok.AllArgsConstructor;
 import lombok.Builder;
+import lombok.NoArgsConstructor;
 
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
 @Builder
+@AllArgsConstructor
+@NoArgsConstructor
 public class CryptoEvent {
 
     public String title;

@@ -12,6 +12,6 @@ class CryptoEventSqsListener {
 
     @SqsListener(value = "sample-queue", deletionPolicy = SqsMessageDeletionPolicy.ON_SUCCESS)
     void receiveMessage(CryptoEvent cryptoEvent) {
-      log.info("message received {}", JsonUtil.toJson(cryptoEvent));
+      log.info("sqs message received {}", JsonUtil.toJson(cryptoEvent));
     }
 }
