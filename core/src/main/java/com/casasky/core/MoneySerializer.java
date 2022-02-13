@@ -1,4 +1,4 @@
-package com.casasky;
+package com.casasky.core;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.SerializerProvider;

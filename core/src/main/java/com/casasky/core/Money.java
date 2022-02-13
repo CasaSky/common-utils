@@ -1,4 +1,4 @@
-package com.casasky;
+package com.casasky.core;
 
 import lombok.Getter;
 

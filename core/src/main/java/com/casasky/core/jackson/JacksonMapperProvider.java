@@ -1,4 +1,4 @@
-package com.casasky.jackson;
+package com.casasky.core.jackson;
 
 
 import com.fasterxml.jackson.databind.SerializationFeature;

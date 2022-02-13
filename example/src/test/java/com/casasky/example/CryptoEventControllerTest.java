@@ -1,5 +1,6 @@
-package com.casasky;
+package com.casasky.example;
 
+import com.casasky.Money;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

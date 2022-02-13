@@ -1,5 +1,6 @@
-package com.casasky;
+package com.casasky.example;
 
+import com.casasky.Money;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;

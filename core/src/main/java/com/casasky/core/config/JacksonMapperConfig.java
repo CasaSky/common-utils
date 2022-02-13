@@ -1,6 +1,6 @@
-package com.casasky.config;
+package com.casasky.core.config;
 
-import com.casasky.jackson.JacksonMapperProvider;
+import com.casasky.core.jackson.JacksonMapperProvider;
 import org.springframework.boot.autoconfigure.jackson.Jackson2ObjectMapperBuilderCustomizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

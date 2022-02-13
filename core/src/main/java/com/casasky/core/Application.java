@@ -1,4 +1,4 @@
-package com.casasky;
+package com.casasky.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.casasky.util;
+package com.casasky.core.util;
 
-import com.casasky.jackson.JacksonMapperProvider;
+import com.casasky.core.jackson.JacksonMapperProvider;
 import lombok.SneakyThrows;
 
 public class JsonUtil {

@@ -1,4 +1,4 @@
-package com.casasky;
+package com.casasky.example;
 
 import com.casasky.util.JsonUtil;
 import lombok.extern.slf4j.Slf4j;
