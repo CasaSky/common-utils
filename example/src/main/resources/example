@@ -1,4 +1,4 @@
-http POST localhost:8080 title="jackson" message="spring boot custom" requestTime="2000-10-31T01:30:45.123+02:00" money[amount]=12.50 money[currency]="BTC"
+http POST localhost:9090 title="jackson" message="spring boot custom" requestTime="2000-10-31T01:30:45.123+02:00" money[amount]=12.50 money[currency]="BTC"
 
 localstack start
 
